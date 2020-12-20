@@ -1,1 +1,2 @@
-# c21diksha
+# collisionAlgorithm
+Algorithm to detect collision between two objects
